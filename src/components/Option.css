@@ -1,0 +1,27 @@
+.Option{
+    background-color: #3c0e70;
+    border-radius: .5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: .4s;
+}
+
+.Option:hover{
+    opacity: 1;
+}
+
+#OptionsContainer .Option p{
+    margin-bottom: 0;
+}
+
+.Correct{
+    background-color: #0BFC03;
+    font-weight: bold;
+}
+
+.Wrong{
+    background-color: #3C0370;
+    opacity: 0.4;
+}

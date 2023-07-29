@@ -1,0 +1,1 @@
+como nao trabalhamos com router, teriamos de colocar muito codigo em cada componente. para evitar deixar os componentes muito carregados, criamos Context, onde colocamos a lógica de programação dos componentes. destinamos um arquivo ou mais para trabalhar com a logica
